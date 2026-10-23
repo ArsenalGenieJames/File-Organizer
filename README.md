@@ -47,6 +47,5 @@ The exact destination depends on the file extensions listed in the batch script.
 
 - `FileOrganizer_Fixed.bat` — the Windows batch script that organizes files.
 
-## License
-
-No license has been specified yet. Add a license file if you want to define how others may use, modify, and distribute this project.
+## Developer
+Genie James Arsenal
